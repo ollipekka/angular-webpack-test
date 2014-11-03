@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('main', ['module1', 'module2'])
+angular.module('main')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       {
