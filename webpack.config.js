@@ -37,7 +37,9 @@ module.exports = {
             ngRoute: 'angular-route/angular-route',
             ngSanitize: 'angular-sanitize/angular-sanitize',
             ngCookies: 'angular-cookies/angular-cookies',
-            ngResource: 'angular-resource/angular-resource'
+            ngResource: 'angular-resource/angular-resource',
+            ngAnimate: 'angular-animate/angular-animate',
+            ngTouch: 'angular-touch/angular-touch'
         },
         extensions: [
             '',
